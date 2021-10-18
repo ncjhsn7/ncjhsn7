@@ -1,16 +1,12 @@
-### Hi there 👋
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vogadok&show_icons=true&theme=dark&include_all_commits=true&count_private=true%22/%3E
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vogadok&layout=compact&langs_count=7&theme=dark%22/%3E
 
-<!--
-**ncjhsn7/ncjhsn7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="linux" height="30" width="80" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white%22%3E
+  <img align="center" alt="spring" height="30" width="80" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white%22%3E
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg%22%3E
+  <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg%22%3E
+  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg%22%3E
+</div>
