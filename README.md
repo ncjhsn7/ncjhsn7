@@ -1,6 +1,3 @@
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ncjhsn7&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ncjhsn7&layout=compact&langs_count=7&theme=dark"/>
-  
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ncjhsn7&theme=tokyonight_duo)](https://git.io/streak-stats)
-</div>
+<p align="center">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=1500&pause=1000&color=832EF7&center=true&width=435&lines=Hello;Salut;%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94)](https://git.io/typing-svg)
+</p>
